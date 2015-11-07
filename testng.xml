@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://beust.com/testng/testng-1.0.dtd" >
+<suite name="test-parameter">
+
+    <test name="RozetkaLogin">
+
+        <classes>
+            <class name="Tests.FirstTest" />
+        </classes>
+
+    </test>
+
+</suite>
