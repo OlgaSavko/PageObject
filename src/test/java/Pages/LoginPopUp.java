@@ -24,4 +24,3 @@ public class LoginPopUp {
         submit.click();*/
     }
 
-}
