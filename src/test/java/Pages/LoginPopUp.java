@@ -18,10 +18,10 @@ public class LoginPopUp {
     @FindBy(xpath = "//*[@name=\"auth_submit\"]")
     public WebElement submit;
 
-    public void loginAs(String mylogin, String myPassword){
+    /*public void loginAs(String mylogin, String myPassword){
         login.sendKeys(mylogin);
         password.sendKeys(myPassword);
-        submit.click();
+        submit.click();*/
     }
 
 }
